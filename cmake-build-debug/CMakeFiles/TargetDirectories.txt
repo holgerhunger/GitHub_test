@@ -1,0 +1,3 @@
+D:/Development/C/GitHub_test/cmake-build-debug/CMakeFiles/GitHub_test.dir
+D:/Development/C/GitHub_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Development/C/GitHub_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
